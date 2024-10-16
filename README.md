@@ -1,4 +1,4 @@
-# 🐉 Bryan Davis
+# 👨🏾‍💻 Bryan Davis
 
 **`Data Scientist (Analytics / ML / Data Visualization)`**
 
