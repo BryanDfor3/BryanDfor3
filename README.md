@@ -2,7 +2,7 @@
 
 **`Data Scientist (Analytics / ML / Data Visualization)`**
 
-Welcome to my GitHub! I'm a data analyst / data science professional with a passion for storytelling with data. I have over 5 years of experience as a PwC consultant performing analytics and data visualization in industries such as health insurance, automotive, technology, and entertainment, but my greatest passion is basketball analytics (which will encompass most of my portfolio and personal project work here on GitHub). 
+Welcome to my GitHub! I'm a data analyst / data science professional with a passion for storytelling with data. I have over 5 years of experience as a PwC consultant performing analytics and data visualization in industries such as health insurance, automotive, technology, and entertainment, but my greatest passion is basketball analytics (which will encompass most of my personal project work here on GitHub). 
 
 ---
 
